@@ -22,7 +22,7 @@ plugins {
     id 'io.ballerina.plugin'
 }
 
-description = 'Jira - Ballerina'
+description = 'Jira APIs - Ballerina'
 
 def packageName = "jira"
 def packageOrg = "ballerinax"
