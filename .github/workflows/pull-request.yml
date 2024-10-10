@@ -1,6 +1,7 @@
 name: PR Build (Connector)
 
 on:
+  pull_request:
   workflow_call:
     inputs:
       additional-build-flags:
